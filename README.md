@@ -1,4 +1,4 @@
-# Challenge Amigo Secreto
+# Challenge Conversor de divisas
 
 ¡Hola! Muestro el resultado de mi proyecto conversor de monedas
 Espero que pueda ser de su agrado y muchas gracias
